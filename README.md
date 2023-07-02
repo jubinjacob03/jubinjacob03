@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img ="👋"></h1>
+<h1 align="center">Hi, Guys! <img src="https://github.com/jubinjacob03/jubinjacob03/assets/118928433/3f6ae0a6-00b0-4918-900c-db7a56577aba" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -22,17 +22,21 @@
     </a>
 </p>
 
+<p align="center">   
+<img src="https://github.com/jubinjacob03/jubinjacob03/assets/118928433/7d6cb119-9803-436e-bfbd-7a77c23bda4c">
+</p>
+
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jubinjacob03/)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jubinjacob03/)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jubinjacob03/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/jubinjacob03/)
-[![R Programming](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)](https://github.com/jubinjacob03/)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jubinjacob03/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/jubinjacob03/)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/jubinjacob03/)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/jubinjacob03/)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://devdocs.io/javascript/)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/download/help/whatis_java.html)
+[![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
+[![R Programming](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://devdocs.io/c/)
 
 ### AI/ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/jubinjacob03/)
