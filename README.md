@@ -21,11 +21,6 @@
         <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram" alt="Instagram">
     </a>
 </p>
-<br/>
-<p align="center">   
-<img src="https://github.com/jubinjacob03/jubinjacob03/assets/118928433/7d6cb119-9803-436e-bfbd-7a77c23bda4c" hieght="108px" width="144px">
-</p>
-<br/>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -66,11 +61,9 @@
 [![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)](https://www.android.com/intl/en_in/) 
 
 <br/>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jubinjacob03&label=Profile%20views&color=0e75b6&style=flat" alt="jubinjacob03" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jubinjacob03&label=Profile%20views&color=0e75b6&style=flat" alt="jubinjacob03" /><br/> <img src="https://github.com/jubinjacob03/jubinjacob03/assets/118928433/7d6cb119-9803-436e-bfbd-7a77c23bda4c" hieght="108px" width="144px"> </p>
+<br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jubinjacob03&show_icons=true&locale=en" alt="jubinjacob03" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubinjacob03&" alt="jubinjacob03" /></p>
 
 
