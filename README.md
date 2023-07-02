@@ -21,11 +21,11 @@
         <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram" alt="Instagram">
     </a>
 </p>
-
+<br/>
 <p align="center">   
-<img src="https://github.com/jubinjacob03/jubinjacob03/assets/118928433/7d6cb119-9803-436e-bfbd-7a77c23bda4c">
+<img src="https://github.com/jubinjacob03/jubinjacob03/assets/118928433/7d6cb119-9803-436e-bfbd-7a77c23bda4c" hieght="108px" width="144px">
 </p>
-
+<br/>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
