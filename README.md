@@ -30,7 +30,6 @@
 [![R Programming](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://devdocs.io/c/)
 
 ### AI/ML/DL
@@ -50,7 +49,10 @@
 [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://angular.io/)
 [![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
-[![MongoDB](https://img.shields.io/badge/Mongo%20DB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.3.x/)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/) 
 [![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
