@@ -119,7 +119,7 @@
 
 <br>
 
-[![TODO](https://github-readme-stats.vercel.app/api/pin/?username=jubinjacob03&repo=TODO_Flask-Graphql_JWT_Stripe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jubinjacob03/=TODO_Flask-Graphql_JWT_Stripe)
+[![TODO](https://github-readme-stats.vercel.app/api/pin/?username=jubinjacob03&repo=TODO_Flask-Graphql_JWT_Stripe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jubinjacob03/TODO_Flask-Graphql_JWT_Stripe)
 [![TRANSLATOR APP](https://github-readme-stats.vercel.app/api/pin/?username=jubinjacob03&repo=LangSHELF-Android_Studio-Kt_Google-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jubinjacob03/LangSHELF-Android_Studio-Kt_Google-API)
 [![ML -KNN](https://github-readme-stats.vercel.app/api/pin/?username=jubinjacob03&repo=genre-classification-recommendation_Spotify&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jubinjacob03/genre-classification-recommendation_Spotify)
 [![IOT](https://github-readme-stats.vercel.app/api/pin/?username=jubinjacob03&repo=facedetection-RaspberryPi-IOT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jubinjacob03/facedetection-RaspberryPi-IOT)
