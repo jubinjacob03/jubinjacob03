@@ -33,9 +33,7 @@
  
 <p>
  <img align="right" width="350" src="https://github.com/jubinjacob03/jubinjacob03/assets/118928433/6e7cf380-90ab-43f1-aa4c-11c2d8f952f9" alt="Coding gif" />
-</p>
-
-<p aligin="left">
+  
  ✌️ &emsp; Enjoy exploring new fields of Cybersecurity , Web dev & AI/ML/DL <br/><br/>
  ❤️ &emsp; Open to collaborating on interesting and innovative projects<br/><br/>
  📧 &emsp; Reach me anytime: jr.jubinjacob03@gmail.com<br/><br/>
