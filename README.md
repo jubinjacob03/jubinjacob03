@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=ffA500&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Jubin;Tech+Alchemist;ML+%26+Cybersecurity+Engineer+💻;Full+Stack+%26+Web+Dev.;">
 </p>
-l
 
 ---
 
